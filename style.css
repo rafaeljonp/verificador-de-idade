@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Denk+One&display=swap');
+
+body {
+    background-size: 100%;
+    background-image: url(fundodatarde.png) ;
+    font-family: 'Denk One';
+    
+    
+}
+
+header {
+    color: white;
+    text-align: center;
+    text-shadow: 4px 4px  rgba(10, 9, 9, 0.226);
+    font-size: 30px;    
+
+}
+
+section {
+    font-size: large; 
+    background: white;
+    border-radius: 15px;
+    padding: 45px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 8px 5px 10px rgba(5, 5, 5, 0.281); 
+    text-align: center;
+}
+
+div {
+    
+    padding: 8px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-family: normal, arial;
+    font-style: italic;
+    text-shadow: 1px 1px 4px  black;
+
+
+}
